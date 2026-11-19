@@ -17,9 +17,9 @@ Kaggle zips -> Python ETL (pandas) -> SQLite -> SQL analysis -> Dash/Plotly dash
 - [Finding 3, e.g. "N periods fell outside the p-chart control limits"]
 
 ## Screenshots
-![Dashboard](docs/dashboard.png)
-![p-chart](docs/pchart.png)
-![Trend](docs/defect_trend.png)
+![Dashboard](dashboard.png)
+![p-chart](pchart.png)
+![Trend](defect_trend.png)
 
 ## How to run
 1. Download `train_numeric.csv.zip` and `train_date.csv.zip` from Kaggle into `data/raw/`

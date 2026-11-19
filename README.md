@@ -12,9 +12,9 @@ Shifts (A/B/C) and 6-hour periods are derived from anonymized timestamps, so the
 Kaggle zips -> Python ETL (pandas) -> SQLite -> SQL analysis -> Dash/Plotly dashboard
 
 ## Key findings
-- [Finding 1 from your SQL, e.g. "Line X / shift Y has the highest defect rate: Z%"]
-- [Finding 2, e.g. "Station S has a lift of N vs. the overall defect rate"]
-- [Finding 3, e.g. "N periods fell outside the p-chart control limits"]
+- Line 1 / shift B has the highest defect rate: 0.98%
+- Station 32 has a lift of 8.42 vs. the overall defect rate IS 4.782%
+- 8 periods fell outside the p-chart control limits
 
 ## Screenshots
 ![Dashboard](dashboard.png)

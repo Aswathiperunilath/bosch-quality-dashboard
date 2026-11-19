@@ -4,7 +4,7 @@
 Where and when do quality problems occur in production, and which stations deserve investigation?
 
 ## Data
-Bosch Production Line Performance (Kaggle). I used a sample of [N] parts.
+Bosch Production Line Performance (Kaggle). I used a sample of 10000 parts.
 **Assumptions:** line = the line where a part first entered production.
 Shifts (A/B/C) and 6-hour periods are derived from anonymized timestamps, so they are illustrative, not real shifts.
 
